@@ -4,7 +4,8 @@
 MERN Stack Exercise for animation of Pacman with use of Array
 
 # Installation
-Please drag the **Pac Man Animation.html** to google chrome in order to launch the program
+Please drag the **Pac Man Animation.html**, as well as the additional files in the folder to a folder in your desktop. Once
+you do this, please drag **Pac Man Animation.html** into google chrome so you can see the generated program.
 
 # Usage
 Once you click on the Pac Man picture, it will begin to travel from left to right. Once it gets to the edge of the screen,
