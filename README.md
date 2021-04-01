@@ -1,4 +1,4 @@
-# pacmanassignment
+# Pac Man Animation
 
 # Description
 MERN Stack Exercise for animation of Pacman with use of Array
